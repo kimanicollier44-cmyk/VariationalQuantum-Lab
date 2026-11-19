@@ -1,4 +1,4 @@
-![VariationalQuantum-Lab cover](assets/cover.png)
+![VariationalQuantum-Lab cover](VariationalQuantum-Lab%20cover.png)
 
 # VariationalQuantum-Lab ⚛️📉
 
